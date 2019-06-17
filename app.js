@@ -4,8 +4,9 @@ function greet(param){
 }
 
 
-function cheer(){
-  console.log('JavaScript');
+function cheer(param1, param2){
+  console.log(param1);
+  console.log(param2);
 }
 function count() {
 	console.log('6');
