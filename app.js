@@ -7,6 +7,6 @@ function greet(param){
 function cheer(){
   console.log('JavaScript');
 }
-function count() {
-	console.log('6');
+function count(myAge, yourAge) {
+	console.log(myAge + yourAge);
 }
