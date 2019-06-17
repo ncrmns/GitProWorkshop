@@ -3,10 +3,10 @@ function greet(){
   console.log('ncrmns');
 }
 
-
 function cheer(){
   console.log('Malachite!');
 }
-function count() {
-	console.log('28');
+
+function count(age) {
+	console.log(age);
 }
