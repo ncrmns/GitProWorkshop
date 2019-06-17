@@ -1,11 +1,11 @@
 'use strict'
-function greet(param){
-  console.log('Greetings!');
+function greet(param1, param2){
+  console.log(param1,param2);
 }
 
 function cheer(param1, param2){
-  console.log(param1);
-  console.log(param2);
+  console.log('Cheer' + param1);
+  console.log('Cheer' + param2);
 }
 
 function count(word){
