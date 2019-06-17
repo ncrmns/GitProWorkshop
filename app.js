@@ -8,5 +8,5 @@ function cheer(){
   console.log('Malachite!');
 }
 function count() {
-	console.log('28');
+	console.log('6');
 }
