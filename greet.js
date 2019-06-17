@@ -1,4 +1,4 @@
 'use strict'
-function greet(){
-    console.log('ncrmns');
+function greet(param){
+    console.log(param);
   }
