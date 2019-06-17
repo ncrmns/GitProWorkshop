@@ -4,6 +4,9 @@ function greet(){
 }
 
 
-function cheer(){
-  console.log('Malachite!');
+function cheer(word){
+  console.log(word);
+}
+function count() {
+	console.log('28');
 }
