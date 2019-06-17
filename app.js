@@ -1,6 +1,6 @@
 'use strict'
-function greet(param){
-  console.log('Greetings!');
+function greet(name){
+  console.log(`Greetings for the ${name}!`);
 }
 
 
