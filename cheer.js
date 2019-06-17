@@ -4,4 +4,4 @@ const cheer = function(teamName){
     console.log(teamName);
 }
 
-cheer("Malachite");
+cheer("JavaScript");
