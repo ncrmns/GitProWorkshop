@@ -1,3 +1,7 @@
 'use strict';
 
-console.log('Malachite Dream Team');
+const cheer = function(teamName){
+    console.log(teamName);
+}
+
+cheer("Malachite");
