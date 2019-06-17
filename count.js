@@ -1,5 +1,5 @@
-function count(age) {
-	console.log(age + 'June');
+function count() {
+	console.log('June');
 }
 
 
