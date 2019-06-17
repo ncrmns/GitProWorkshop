@@ -8,6 +8,6 @@ function cheer(param1, param2){
   console.log(param1);
   console.log(param2);
 }
-function count() {
-	console.log('6');
+function count(myAge, yourAge) {
+	console.log(myAge + yourAge);
 }
