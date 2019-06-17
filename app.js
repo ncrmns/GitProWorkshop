@@ -3,7 +3,6 @@ function greet(param){
   console.log(param);
 }
 
-
 function cheer(){
   console.log('Malachite!');
 }
